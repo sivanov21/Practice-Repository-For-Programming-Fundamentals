@@ -1,2 +1,3 @@
 # Practice-Repository-For-Programming-Fundamentals
-This is repository for course Programming Fundamentals in SoftUni
+This is repository for course Programming Fundamentals in SoftUni.
+Practice.
